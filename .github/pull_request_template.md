@@ -2,7 +2,7 @@
 
 
 ## Jira Issue Link
-
+https://jira.alldigitalrewards.com/browse/
 
 ## Has the README / documentation been extended if necessary?
 Yes/No
